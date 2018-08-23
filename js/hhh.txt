@@ -1,0 +1,18 @@
+582    Vanillite    
+583    Vanillish    
+584    Vanilluxe    
+     587    Emolga   	 
+588    Karrablast    
+589    Escavalier    
+597    Ferroseed    
+598    Ferrothorn    
+615    Cryogonal    
+616    Shelmet    
+617    Accelgor    
+618    Stunfisk    
+622    Golett   	 
+623    Golurk   	 
+624    Pawniard    
+     625    Bisharp   	 
+631    Heatmor    
+      632    Durant    	

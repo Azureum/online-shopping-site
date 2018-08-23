@@ -1,0 +1,7 @@
+caption
+colgroup
+col
+thead
+tbody
+tfoot
+
